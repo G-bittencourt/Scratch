@@ -17,5 +17,6 @@ Cada projeto está organizado em pastas individuais, contendo:
 
 Contribuição
 Este repositório foi criado com o objetivo de aprendizado, mas adoraria receber feedback! Se você tiver sugestões, melhorias ou quiser compartilhar ideias, fique à vontade para abrir uma issue ou entrar em contato.
+
 📌 Sobre mim
 Sou um estudante entusiasta de programação e este espaço no GitHub é uma forma de documentar minha evolução e aprendizado. Continuarei adicionando novos projetos e explorando novas possibilidades no Scratch e, futuramente, em outras 
