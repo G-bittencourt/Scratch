@@ -29,3 +29,5 @@ Estrutura do Script
 
 Conclusão
 Este script é um exemplo de como utilizar blocos de programação visual no Scratch para criar um fluxo de controle baseado na entrada do usuário. É interessante e relevante porque demonstra conceitos básicos de programação, como variáveis, condicionais e loops, de uma maneira acessível e visual.
+
+![Image](https://github.com/user-attachments/assets/216f5857-796c-48d2-a2dd-050a290b41d7)
