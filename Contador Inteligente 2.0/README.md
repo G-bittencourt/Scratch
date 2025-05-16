@@ -15,3 +15,4 @@ Como Funciona
 Conclusão
 Este projeto demonstra conceitos fundamentais de programação, como controle de fluxo, loops e interação com o usuário, tornando-o um excelente exercício para iniciantes. Ele pode ser expandido para incluir mais funcionalidades, como novas opções ou efeitos visuais.
 
+![Image](https://github.com/user-attachments/assets/26cad8f2-a82a-4abc-aef2-b277229a700d)
