@@ -20,3 +20,5 @@ Este repositório foi criado com o objetivo de aprendizado, mas adoraria receber
 
  Sobre mim
 Sou um estudante entusiasta de programação e este espaço no GitHub é uma forma de documentar minha evolução e aprendizado. Continuarei adicionando novos projetos e explorando novas possibilidades no Scratch e, futuramente, em outras 
+
+![Image](https://github.com/user-attachments/assets/216f5857-796c-48d2-a2dd-050a290b41d7)
